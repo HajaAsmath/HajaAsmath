@@ -16,7 +16,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[<img align="left" alt="Twitch" width="22px" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" />][reddit]
+[<img align="left" alt="Reddit" width="22px" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png" />][reddit]
 
 
 <br />
