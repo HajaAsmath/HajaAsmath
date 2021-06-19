@@ -10,7 +10,7 @@
 - 🌱 Always curious to learn new technologies
 - 👯 I’m looking to collaborate with creative individuals  
 - 📫 How to reach me: asmath1997@gmail.com
-- ⚡ Fun fact: I love do Astrophotography [<addr><img alt="logo" width="18px" src="anime.png" />](https://www.crunchyroll.com/) and Gaming
+- ⚡ Fun fact: I love to do Astrophotography and Gaming
 
 ### Connect with me:
 
