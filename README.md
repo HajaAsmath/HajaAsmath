@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 # I am Haja Asmath
-### BackEnd API Developer
+### FullStack Developer
 
 ##### A diligent, skilled and creative developer with goals to collaborate with other creative individuals to produce API using the latest software technologies. Ambitious and always excited to work on new projects and other challenging opportunities
 
@@ -25,7 +25,8 @@
 ### Languages and Libraries
 
 [<img align="left" alt="Java" width="35px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" />](https://docs.oracle.com/en/java/)
-[<img align="left" alt="HTML5" width="35px" src="https://dwglogo.com/wp-content/uploads/2017/08/Go_logo_aqua.png" />](https://golang.org/doc/)
+[<img align="left" alt="react" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />](https://reactjs.org/)
+[<img align="left" alt="react" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />](https://react-redux.js.org/)
 [<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
