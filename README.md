@@ -49,11 +49,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Aravinth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HajaAsmath&hide=contribs,prs&theme=radical" />
+    <img align="left" alt="Haja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HajaAsmath&hide=contribs,prs&theme=radical" />
 
   </details>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HajaAsmath&repo=ValidateBinaryTree)
 
 
 
