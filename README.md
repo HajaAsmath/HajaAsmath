@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 # I am Haja Asmath
-### FullStack Developer
+### Senior Software Engineer
 
 ##### A diligent, skilled and creative developer with goals to collaborate with other creative individuals to produce API using the latest software technologies. Ambitious and always excited to work on new projects and other challenging opportunities
 
